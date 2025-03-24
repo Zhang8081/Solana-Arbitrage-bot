@@ -106,6 +106,9 @@ Create a `.env` file in the root folder of your project and add your environment
 ### Requirements  
 Before you run the Solana Arbitrage Bot, ensure that the following are installed:  
 - .NET Framework 4.5
+- Solnet Libraries
+- .NET SDK
+- Windows 10/11
 
 
 If you want, I can help you build a full Python script that will read this config and run live price comparisons between these DEXs.
