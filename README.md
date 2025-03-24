@@ -23,8 +23,6 @@ Sure! Here's a slightly more unique version of that text:
 - Set up your environment:  
 Create a `.env` file in the root folder of your project and add your environment variables. Feel free to use the `.env.example` file as a reference.  
 - Launch the bot.
-Here’s a rewritten version of the configuration example text, now including the requested DEXs: Jupiter, Raydium, Kamino, Drift, Orca, MarginFi (assuming “margin” refers to MarginFi), and Serum:
-
 ---
 
 ### Example `config.json`:
